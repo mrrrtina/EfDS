@@ -42,13 +42,13 @@ After the course you will be able to:
 3. :writing_hand: Use Python classes (instance variables, methods, inheritance).
 4. :writing_hand: Combine functions from the Python standard libraries (reading/writing files in different formats; `math`, `statistics`, `random`) into own code.
 5. :writing_hand: Analyse example data with common data science libraries ([NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)).
-6. Understand relational databases and apply the SQL language to create, query, and update a relational database.
-        :writing_hand: Understand ideas behind relational databases and elementary SQL.
-        :no_entry_sign: Use SQL to create, query, update a database.
+6. Understand relational databases and apply the SQL language to create, query, and update a relational database:
+    - :writing_hand: Understand ideas behind relational databases and elementary SQL.
+    - :no_entry_sign: Use SQL to create, query, update a database.
 7. :writing_hand: Practice Python programming through running several machine learning algorithms.
 8. Practice individual and collaborative code development by using [git](https://git-scm.com/) and [GitHub](https://github.com/):
-        :writing_hand: Understand ideas behind project versioning.
-        :no_entry_sign: Use git and GitHub for individual and collaborative code development.
+    - :writing_hand: Understand ideas behind project versioning.
+    - :no_entry_sign: Use git and GitHub for individual and collaborative code development.
 
 ## Timetable
 
@@ -138,7 +138,7 @@ Components of the final grade:
   - The exam consists of two parts: a pen-and-paper quiz and a programming part. **Usage of AI tools is prohibited during the pen-and-paper quiz part.**
   - The grade range is 1-10.
   - To pass the course, the exam/retake grade must be greater than 5.5.
-  - The exam will cover the course objectives marked with :writing_hand:. The exam will not cover the course objectives marked with :no_entry_sign (these objectives are evaluated in the assignments).
+  - The exam will cover the course objectives marked above with :writing_hand:, and will not cover the ones with :no_entry_sign: (these objectives are evaluated in the assignments).
 
 The final grade:
 
